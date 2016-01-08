@@ -4,4 +4,6 @@ PerkTVScript is used to automate watching videos in the Perk TV app. This script
 
 This script only works on a jailbroken iDevice with the AutoTouch tweak installed. Only versions 3.5.3-8 and 2.0.2 are supported at the moment.
 
+Simply download the version that corresponds to your AutoTouch install, ensure you have the Perk TV app installed, and run the script.
+
 Use in conjunction with the tweak called FastFoward for faster playing videos.
