@@ -1,6 +1,6 @@
 --AutoTouch script for Perk TV. Clicks through the app, checks for app crashes, yes prompt, and frozen ads.
 --@author: Albert Martinez
---Source File: perktv_3.5.3-8.lua
+--Source File: perktv_3.5.3-17.lua
 
 PERKTV_ID = "com.jutera.perktv";
 errFlag, spriteNotFound = false, false;
